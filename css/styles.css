@@ -1,0 +1,254 @@
+/* import my font from fonts.css file */ 
+@import url(./fonts.css);
+
+/*import my css variables into */
+@import url(/css/partials/_variables.css);
+
+
+/* global */
+@import url(/css/partials/_global.css);
+
+
+
+
+/* Start Navigation Styles */
+
+    .header_area .main-menu .navbar .navbar-brand{
+        padding: 0 2rem 0 5rem;  /* gives padding on top, left, bottom, right */
+    }
+
+    .header_area .main-menu .navbar{
+        padding: 1rem 20rem;
+    }
+
+    .header_area .main-menu .nav-item .nav-link{
+        font: normal 500 15px/2px var(--roboto);
+        font-family: var(--roboto);
+        text-transform: uppercase;
+        font-weight: 500;
+        padding: 1.7rem;
+        color: var(--title-color);
+    }
+
+    .header_area .main-menu .navbar-nav .active a{
+        background: var(--gradient-color);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+    }
+
+    .header_area .main-menu .navbar-nav  a:hover{
+        background: var(--gradient-color);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+    }
+/*End Navigation Styles */
+
+
+
+/*Banner Area */
+
+.site-main .site-banner {
+    background: url() no-repeat;
+}
+
+.site-main .site-banner .site-title h3{
+    padding-top: 35%;
+    font-weight: 500;
+}
+
+.site-main .site-banner .site-title h3::after{
+    content:"";
+    height: 2px;
+    width: 18vw; 
+    background: black;
+    display: inline-block;
+    margin-left: 5%;
+    transform: translateY(-10px);
+}
+.site-main .site-banner a{
+    margin-right: 105px;
+}
+
+
+
+.site-main .site-banner .site-title h1{
+    font-size: 3.5rem;
+}
+    .site-main .site-banner .site-title h4{
+    font-size: 1.5rem;
+    }
+
+    .site-main .site-banner .banner-image > img {
+        padding: 7rem 0;
+        width: 80rem;
+    }
+
+    
+/*End Banner Area */
+
+
+/*Start About Area */
+
+
+
+.site-main .site-about img{
+    height: 65%;
+    width: 75%;
+}
+
+
+
+/*--------------------------------------------------------------
+# Skills
+--------------------------------------------------------------*/
+.skills .progress {
+    height: 50px;
+    display: block;
+    background: none;
+  }
+  
+  .skills .progress .skill {
+    padding: 10px 0;
+    margin: 0 0 6px 0;
+    text-transform: uppercase;
+    display: block;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    color: #45505b;
+  }
+  
+  .skills .progress .skill .val {
+    float: right;
+    font-style: normal;
+  }
+  
+  .skills .progress-bar-wrap {
+    background: #f2f3f5;
+  }
+  
+  .skills .progress-bar {
+    width: 1px;
+    height: 10px;
+    transition: .9s;
+    background-color: #0563bb;
+  }
+
+  .skills{
+      padding-top: 40px;
+      padding-bottom: 40px;
+  }
+
+
+  /* Achievements */
+
+
+.cards {
+	max-width: 1120px;
+	display: block;
+}
+
+.card {
+	width: 47.9%;
+	height: 200px;
+	background-color: #EEF0F7;
+	display: inline-block;
+	margin: 7px 5px;
+	vertical-align: top;
+	border-radius: 10px;
+	text-align: center;
+	padding-top: 50px
+}
+
+.card-active , .card:hover{
+	transform: scale(1.02);
+	transition: 0.5s;
+	background-color: #fff;
+	box-shadow: 0px 5px 50px -8px #ddd;
+	cursor: pointer;
+}
+
+
+.skill-level {
+	display: inline-block;
+	max-width: 160px;
+}
+
+.skill-level span {
+	font-size: 35px;
+	font-weight: 300;
+	color: #5B6A9A;
+	vertical-align: top;
+}
+
+.skill-level h2 {
+	font-size: 95px;
+	font-weight: 300;
+	display: inline-block;
+	vertical-align: top;
+	color: #5B6A9A;
+	letter-spacing: -5px;
+}
+
+.skill-meta {
+	vertical-align: top;
+	display: inline-block;
+	max-width: 300px;
+	text-align: left;
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+.skill-meta h3 {
+	font-size: 20px;
+	font-weight: 800;
+	color: #5B6A9A;
+	margin-bottom: 5px;
+}
+
+.skill-meta span{
+	color: #81899C;
+	line-height: 20px;
+	font-size: 16px;
+}
+
+/* Achievements ends */
+
+
+/* Resume Starts */
+.resume .resume-item {
+    padding: 0 0 20px 20px;
+    margin-top: -2px;
+    border-left: 2px solid #0563bb;
+    position: relative;
+}
+
+.resume .resume-item::before {
+    content: "";
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    border-radius: 50px;
+    left: -9px;
+    top: 0;
+    background: #fff;
+    border: 2px solid #0563bb;
+}
+
+.resume{
+    margin-top: 50px;
+}
+
+/* Resume ends */
+
+
+
+/* Footer Start */
+
+
+#footer{
+    margin-top: 80px;
+}
+
+/* Footer end */
