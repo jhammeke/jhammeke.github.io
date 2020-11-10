@@ -2,11 +2,11 @@
 @import url(./fonts.css);
 
 /*import my css variables into */
-@import url(/css/partials/_variables.css);
+@import url(./css/partials/_variables.css);
 
 
 /* global */
-@import url(/css/partials/_global.css);
+@import url(./css/partials/_global.css);
 
 
 
