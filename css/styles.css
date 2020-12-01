@@ -22,7 +22,7 @@
     }
 
     .header_area .main-menu .nav-item .nav-link{
-        font: normal 500 15px/2px var(--roboto);
+        font: normal 500 var(--roboto);
         font-family: var(--roboto);
         text-transform: uppercase;
         font-weight: 500;
