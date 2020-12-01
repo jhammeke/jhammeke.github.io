@@ -1,0 +1,75 @@
+College Class Sheet Aug. 2016 - May. 2021- John Hammeke @ Pennsylvania College of Technology
+#Below are the different classes I have taken and a tiny blurb on each class#
+
+Fall 2016 (3.25 GPA)-----------------------------------------------------
+1. Information, Technology & Society 
+2. English Composition I
+3. First Years Experience
+4. Elementary Algebra I
+5. General Psychology
+6. Fundamentals of Speech
+
+
+Spring 2017 (3.0 GPA) ---------------------------------------------------
+1. Networking II
+2. Networking II (Lab)
+3. English Composition II
+4. World Civilization II
+5. Principles of Management
+6. Elementary Algebra II
+
+
+Fall 2017 (2.64 GPA) -----------------------------------------------------------
+1. Introduction to Programming (Java) 
+2. Introduction to Database (MySQL)
+3. Internetworking 
+4. Network Administation and Technical Support
+5. Principles of Macroeconomics
+6. College Algebra and Trigonometry I
+
+
+Spring 2018 (2.89 GPA) ---------------------------------------------------------
+1. Introduction to Programming 
+2. Systems Programming 
+3. Environmental Science
+4. Introuction to Sociology
+5. College Algebra and Trigonometry I
+
+
+Fall 2018 (3.0 GPA) -------------------------------------------------------------
+1. Systems Analysis I
+2. Programming II 
+3. Network Administration II : Real-Time Services (VOIP)
+4. Protocol Vulnerabilities and Network Defense 
+5. College Algebra and Trigonometry I
+
+
+Spring 2019 (3.1 GPA) ------------------------------------------------------------
+1. Fundamentals of Information Security 
+2. Systems Programming 
+3. Web Systems and Technologies
+4. College Algebra and Trigonometry II
+
+
+Fall 2019 (3.19 GPA) ---------------------------------------------------------------
+1. Art History
+2. Legal Issues in Information Security Management
+3. Management of Organizational Behavior
+4. Information Technology Project Management 
+5. Introduction to Metallurgy 
+6. Elementary Statistics with Computer Applications 
+
+
+Spring 2020 (3.19 GPA) ---------------------------------------------------------------
+1. Advanced CSS
+2. Wireless and Mobile Computing 
+3. Support Center and Procedures 
+4. Network Simulation 
+5. Virtualization, Cloud Computing and Storage
+
+
+Fall 2020 () ----------------------------------------------------------------------------- 
+1. Front-End Frameworks
+2. Interactive Animation
+3. Network Defense
+4. Small Business Management
