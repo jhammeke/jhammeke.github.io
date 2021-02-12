@@ -37,17 +37,17 @@ Spring 2018 (2.89 GPA) ---------------------------------------------------------
 
 
 Fall 2018 (3.0 GPA) -------------------------------------------------------------
-1. Systems Analysis I
-2. Programming II 
-3. Network Administration II : Real-Time Services (VOIP)
-4. Protocol Vulnerabilities and Network Defense 
+1. Systems Analysis I (Understanding systems and systems analysis)
+2. Programming II (JavaFX)
+3. Network Administration II : Real-Time Services (VoIP, Asterisk and FreePBX, H323)
+4. Protocol Vulnerabilities and Network Defense (IPSec, TCP/IP Security)
 5. College Algebra and Trigonometry I
 
 
 Spring 2019 (3.1 GPA) ------------------------------------------------------------
 1. Fundamentals of Information Security 
 2. Systems Programming 
-3. Web Systems and Technologies
+3. Web Systems and Technologies 
 4. College Algebra and Trigonometry II
 
 
@@ -61,15 +61,22 @@ Fall 2019 (3.19 GPA) -----------------------------------------------------------
 
 
 Spring 2020 (3.19 GPA) ---------------------------------------------------------------
-1. Advanced CSS
-2. Wireless and Mobile Computing 
-3. Support Center and Procedures 
-4. Network Simulation 
-5. Virtualization, Cloud Computing and Storage
+1. Advanced CSS (Understanding style and media)
+2. Wireless and Mobile Computing (Radius&AccessPoints, WLAN, Adhoc networks)
+3. Support Center and Procedures (Project Management, Communication)
+4. Network Simulation (GNS3 Simulations, BGP OSPF RIP)
+5. Virtualization, Cloud Computing and Storage (VMware)
 
 
-Fall 2020 () ----------------------------------------------------------------------------- 
-1. Front-End Frameworks
-2. Interactive Animation
-3. Network Defense
-4. Small Business Management
+Fall 2020 (3.186 GPA) ----------------------------------------------------------------------------- 
+1. Front-End Frameworks (Foundation, pureCSS, Email)
+2. Interactive Animation (JS animation, Slider Revolution, animateCSS Carousels, Blog Posts)
+3. Network Defense (Vulnerabilities, IDS/IPS, Firewalls (SonosXG))
+4. Small Business Management (Understanding management and business principles as a Small Business)
+
+
+Spring 2021 (Over 3.2 GPA)
+1. Interactive Scripting (Javascript) 
+2. Secure Database Development (MySQL, MongoDB)
+3. Advanced Network Administration (Windows Server 2019, Virtual Storage)
+4. Network Design and Management (Re-designing hospital network completely)
