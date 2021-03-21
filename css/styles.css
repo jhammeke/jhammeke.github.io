@@ -84,6 +84,7 @@
         width: 80rem;
     }
 
+    
 
     
 
@@ -102,6 +103,7 @@
 
 .container{
     display: flex;
+    padding-top: 35px;
 }
 .firstCard{
     border: 2px solid lightgray;
