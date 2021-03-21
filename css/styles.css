@@ -46,7 +46,6 @@
 /*End Navigation Styles */
 
 
-
 /*Banner Area */
 
 .site-main .site-banner {
@@ -85,13 +84,14 @@
         width: 80rem;
     }
 
+
+    
+
     
 /*End Banner Area */
 
 
 /*Start About Area */
-
-
 
 .site-main .site-about img{
     height: 15%;
@@ -100,167 +100,53 @@
 }
 
 
-
-/*-------------------------------------------------------------
-# Hobbies and Interests 
------------------------------------------------------------- */
-
-#hobbies{
-    margin-top: 5%;
+.container{
+    display: flex;
+}
+.firstCard{
+    border: 2px solid lightgray;
+    height: 300px;
+    width: 230px;
+    padding: 10px;
+    margin-right: 35px;
+    background-color: #7E78D2;
+    color: white;
+    
 }
 
-
-
-/*--------------------------------------------------------------
-# Skills
---------------------------------------------------------------*/
-.skills .progress {
-    height: 50px;
-    display: block;
-    background: none;
-  }
-  
-  .skills .progress .skill {
-    padding: 10px 0;
-    margin: 0 0 6px 0;
-    text-transform: uppercase;
-    display: block;
-    font-weight: 600;
-    font-family: "Poppins", sans-serif;
-    color: #45505b;
-  }
-  
-  .skills .progress .skill .val {
-    float: right;
-    font-style: normal;
-  }
-  
-  .skills .progress-bar-wrap {
-    background: #f2f3f5;
-  }
-  
-  .skills .progress-bar {
-    width: 1px;
-    height: 10px;
-    transition: .9s;
-    background-color: #0563bb;
-  }
-
-  .skills{
-      padding-top: 80px;
-      padding-bottom: 80px;
-  }
-
-
-  /* Skills and Cards */
-
-
-.cards {
-	max-width: 1120px;
-	display: block;
+.secondCard{
+    border: 2px solid lightgray;
+    height: 300px;
+    width: 230px;
+    padding: 10px;
+    margin-right: 35px;
+    background-color: #B6B8D6;
 }
 
-.card {
-	width: 47.9%;
-	height: 200px;
-	background-color: #EEF0F7;
-	display: inline-block;
-	margin: 7px 5px;
-	vertical-align: top;
-	border-radius: 10px;
-	text-align: center;
-    padding-top: 50px;
-    margin-bottom: 30px;
+.thirdCard{
+    border: 2px solid lightgray;
+    height: 300px;
+    width: 230px;
+    padding: 10px;
+    margin-right: 35px;
+    background-color: #78D5D7;
+    color: white;
 }
 
-.card-active , .card:hover{
-	transform: scale(1.02);
-	transition: 0.5s;
-	background-color: #fff;
-	box-shadow: 0px 5px 50px -8px #ddd;
-	cursor: pointer;
+.fourthCard{
+    border: 2px solid lightgray;
+    height: 300px;
+    width: 230px;
+    padding: 10px;
+    margin-right: 35px;
+    background-color: #E8AEB7;
+    
 }
 
-
-.skill-level {
-	display: inline-block;
-	max-width: 160px;
-}
-
-.skill-level span {
-	font-size: 35px;
-	font-weight: 300;
-	color: #5B6A9A;
-	vertical-align: top;
-}
-
-.skill-level h2 {
-	font-size: 95px;
-	font-weight: 300;
-	display: inline-block;
-	vertical-align: top;
-	color: #5B6A9A;
-	letter-spacing: -5px;
-}
-
-.skill-meta {
-	vertical-align: top;
-	display: inline-block;
-	max-width: 300px;
-	text-align: left;
-	margin-top: 15px;
-	margin-left: 15px;
-}
-
-.skill-meta h3 {
-	font-size: 20px;
-	font-weight: 800;
-	color: #5B6A9A;
-	margin-bottom: 5px;
-}
-
-.skill-meta span{
-	color: #81899C;
-	line-height: 20px;
-	font-size: 16px;
-}
-
-/* Achievements ends */
-
-
-/* Resume Starts */
-.resume .resume-item {
-    padding: 0 0 20px 20px;
-    margin-top: -2px;
-    border-left: 2px solid #0563bb;
-    position: relative;
-}
-
-.resume .resume-item::before {
-    content: "";
-    position: absolute;
-    width: 16px;
-    height: 16px;
-    border-radius: 50px;
-    left: -9px;
-    top: 0;
-    background: #fff;
-    border: 2px solid #0563bb;
-}
-
-.resume{
+/* Footer Start */
+#footer{
     margin-top: 50px;
 }
 
-/* Resume ends */
-
-
-
-/* Footer Start */
-
-
-#footer{
-    margin-top: 80px;
-}
 
 /* Footer end */
